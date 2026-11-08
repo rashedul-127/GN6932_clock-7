@@ -15,6 +15,7 @@ MCP7940_Class MCP7940;
 #define DIN  12
 #define CLK  13
 #define STB  27
+#define BUZZ 26
 
 
 // ============================================================
